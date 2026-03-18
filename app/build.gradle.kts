@@ -91,4 +91,9 @@ dependencies {
 
     // Compose Viewmodels
     implementation(libs.androidx.compose.viewmodel)
+
+    // Navigation 3
+    implementation(libs.navigation3.runtime)
+    implementation(libs.navigation3.ui)
+    implementation(libs.navigation3.viewmodel)
 }
